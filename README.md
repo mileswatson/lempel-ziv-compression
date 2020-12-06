@@ -1,5 +1,5 @@
 # lempel-ziv-compression
-A very slow python implimentation of the LZ78 compression algorithm.
+A very slow python implementation of the LZ78 compression algorithm.
 
 ## How do you use it?
 Here is an example of a command to compress a file called data.txt, writing the result to data.txt.compressed:
